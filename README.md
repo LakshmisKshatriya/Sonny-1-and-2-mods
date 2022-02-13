@@ -5,7 +5,7 @@ Danielas WIll Sonny 1 Mod
 Danielas WIll Sonny 2 Mod (huge mod)
 Sonny 2 impossible difficulty
 
--
+
 Daniela's WIll
 
 Mod Name : Daniela's WIll
@@ -32,7 +32,7 @@ Download Link: https://drive.google.com/file/d/17h68ROBPIvnr_OVY8xWojrU7SL1wsKzb
 FLASHPOINT: https://bluemaxima.org/flashpoint/
 
 -------------------------------------------------------------------------------
--Sonny 2 Impossible Difficulty Mod
+Sonny 2 Impossible Difficulty Mod
 
 Mod Information
 
@@ -65,7 +65,7 @@ Flashpoint : https://bluemaxima.org/flashpoint/
 
 -------------------------------------------------------------------------------
 
--Sonny 43 Stage MOD
+Sonny 43 Stage MOD
 
 So I made a Sonny 2 mod which changes a bit of the gameplay and changes (some) Stages and adds 40 new Stages in to Zone 7 with Story Dialogues (no Voice)!!!
 
@@ -98,7 +98,7 @@ Version Changes
 Enjoy!
 
 -------------------------------------------------------------------------------
--Danielas WIll Sonny 2
+Danielas WIll Sonny 2
 
 mod name: Danielas WIll Sonny 2
 
