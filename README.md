@@ -5,8 +5,8 @@ Danielas WIll Sonny 1 Mod
 Danielas WIll Sonny 2 Mod (huge mod)
 Sonny 2 impossible difficulty
 
-
--Daniela's WIll
+-
+Daniela's WIll
 
 Mod Name : Daniela's WIll
 
