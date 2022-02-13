@@ -107,14 +107,23 @@ mod release date: 13.02.2022
 What does this Mod change?
 
 This Mod changes pretty much many things:
+
 1.New Enemies
+
 2.New Stages
+
 3.New Abilities
+
 4.New Items
+
 5.New Icons
+
 6.New Class
+
 7.The link to Il Sanctus is now changed see this : https://i.imgur.com/Wu9gEuy.png
+
 8.New training fights
+
 9.Fights that are not the finals may have the final bos theme ex: a miniboss
 
 Suggestions&Feedbacks Are Welcome
