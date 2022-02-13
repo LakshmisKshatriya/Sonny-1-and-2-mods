@@ -126,5 +126,12 @@ This Mod changes pretty much many things:
 
 9.Fights that are not the finals may have the final bos theme ex: a miniboss
 
+10. Three starting skills
+
+11. Il Sanctus name changed
+
+You dont need the Legend achievement anymore in order to continue you just need the felicity achievement and play on Heroic. 
+The new Training fights are all at the same level as the maincharacter.
+
 Suggestions&Feedbacks Are Welcome
 
